@@ -41,9 +41,9 @@ nav {
 
 @keyframes bottom {
   from {
-    transform: translate()
+    transform: translate(0, 0)
   }
   to {
-    transform: rotate(-70deg)
+    transform: rotate(-45deg) translateX(2em) translateY(-2em)
   }
 }
