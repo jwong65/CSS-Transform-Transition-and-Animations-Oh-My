@@ -44,6 +44,6 @@ nav {
     transform: translate(0, 0)
   }
   to {
-    transform: rotate(-45deg) translateX(2em) translateY(-2em)
+    transform: rotate(-45deg) translateX(2em) translateY(-1.5em)
   }
 }
